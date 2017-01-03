@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TestCustomView">
+        <attr name="hint" format="string"></attr>
+        <attr name="text_color" format="color"></attr>
+        <attr name="image_src" format="reference"/>
+        <attr name="android:inputType"/>
+    </declare-styleable>
+
+</resources>
